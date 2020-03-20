@@ -7,3 +7,5 @@ sidebar_image: /images/cover.jpg
 markdown: redcarpet
 highlighter: pygments
 baseurl: /SARS-CoV-2 # the subpath of your site, e.g. /blog/
+
+theme: jekyll-theme-minimal
