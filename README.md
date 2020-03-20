@@ -1,36 +1,36 @@
-Strange Case
-============
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-Strange Case is a simple, clean and responsive theme for Jekyll. 
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
+## Demo
 
-### Demo 
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-[Demo](http://thephuse.github.io/strange_case/)
+The main page would look like this:
 
-### Overview 
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-* Fixed Sidebar with cover image
-* Minimal design 
-* Easy to configure
-* Browser support: Latest releases of Chrome, Safari, Firefox, Mobile Safari and IE 9+.
+The post page would look like this:
 
-### Screenshots
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
+## Features
 
-### Setup
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
 
-1. Install [Jekyll](http://jekyllrb.com/)
-2. Fork or [download](https://github.com/thephuse/strange_case) this theme repo
-3. Edit the `_config.yml` file (if you make any additional changes to this file, you will need to stop and restart your command in the next step)
-4. From your command line, switch to your site directory and build using `jekyll serve`
-5. Site will be accessible by viewing http://localhost:4000/strange_case/
+## Installation:
 
-### Download
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
 
-[Download](https://github.com/thephuse/strange_case)
+## License
 
-### License
-* [MIT](http://opensource.org/licenses/MIT)
+GNU General Public License v3.0
+
+## Donate
+
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
