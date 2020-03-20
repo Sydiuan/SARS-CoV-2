@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: SARS-Cov-2\COVID-19\Coronavirus # add your name
 author-img: SARS2.jpg # add your photo
-about-author: Photo By: CDC via AP ICTV announced “severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)” as the name of the new virus on 11 February 2020.  # add description
+about-author: ICTV announced “severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)” as the name of the new virus on 11 February 2020.  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Sydiuan # add your Github handle
